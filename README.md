@@ -1,3 +1,3 @@
 # diff-practice
 Git動画学習diff練習用
-変更Working directory用(2nd)
+複数ファイル変更用(3rd)
